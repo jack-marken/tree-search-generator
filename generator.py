@@ -251,7 +251,7 @@ def parse_from_args(argv):
     parser.add_argument(
         "filename",
         nargs="?",
-        default="PathFinder-test.txt",
+        default="demo-test01.txt",
         help="Specify file location")
     parser.add_argument(
         "method",

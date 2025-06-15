@@ -1,7 +1,7 @@
 
 # Map Search With Trained Machine Learning Models - COS30019
 
-[Demo image of the graph generator](docs/demo-image.png)
+![Demo image of the graph generator](docs/demo-image.png)
 
 This repository contains a tree-search graph generator, using six search algorithms:
 - DFS
